@@ -12,3 +12,6 @@ dependencies:
   - jupytext
   - plotly
   - pandas
+  - pip
+  - pip:
+    - -e ..
